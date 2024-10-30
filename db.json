@@ -1,0 +1,22 @@
+{
+	"books": [
+		{
+			"id": 1,
+			"title": "The Hobbit",
+			"author": "J.R.R. Tolkien",
+			"published": "1937"
+		},
+		{
+			"id": 2,
+			"title": "The Lord of the Rings",
+			"author": "J.R.R. Tolkien",
+			"published": "1954-1955"
+		},
+		{
+			"id": 3,
+			"title": "The Silmarillion",
+			"author": "J.R.R. Tolkien",
+			"published": "1977"
+		}
+	]
+}
